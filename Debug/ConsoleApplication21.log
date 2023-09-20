@@ -1,0 +1,4 @@
+﻿  ConsoleApplication21.cpp
+C:\Users\Александр Матросов\source\repos\ConsoleApplication21\ConsoleApplication21\ConsoleApplication21.cpp(17,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Александр Матросов\source\repos\ConsoleApplication21\ConsoleApplication21\ConsoleApplication21.cpp(27,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+LINK : fatal error LNK1168: cannot open C:\Users\Александр Матросов\source\repos\ConsoleApplication21\Debug\ConsoleApplication21.exe for writing
